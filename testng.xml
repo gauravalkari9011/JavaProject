@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium.formSubmit2"/>
+      <class name="BasicJava.MethodOveriding2"/>
+      <class name="Selenium.Datepicker_Month"/>
+      <class name="BasicJava.ClassObject"/>
+      <class name="Selenium.MessageWindowsHandle"/>
+      <class name="Selenium.HandleMultipleWindows"/>
+      <class name="Selenium.alertwith_outwait"/>
+      <class name="Selenium.VerifyPageTitle"/>
+      <class name="Selenium.MultipleWindowsinNewtab"/>
+      <class name="Selenium.DragDrop"/>
+      <class name="BasicJava.MethodOveriding1"/>
+      <class name="Selenium.VerifyDatafromTable"/>
+      <class name="Selenium.formSubmit"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
